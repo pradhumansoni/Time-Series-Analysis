@@ -1,0 +1,12 @@
+streamlit
+yfinance
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+
+# Optional extras used by a few toggles in the app.
+pmdarima
+arch
